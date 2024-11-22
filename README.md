@@ -1,1 +1,2 @@
 # Snake
+Mobile snake game
